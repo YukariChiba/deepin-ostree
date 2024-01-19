@@ -1,3 +1,9 @@
+ostree (2023.7-3deepin1) unstable; urgency=medium
+
+  * disable gjs for loong64
+
+ -- Chang Yang <yangchang@deepin.org>  Fri, 19 Jan 2024 18:01:56 +0800
+
 ostree (2023.7-3) unstable; urgency=medium
 
   * Remove version constraints unnecessary since bullseye

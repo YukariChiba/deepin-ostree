@@ -21,7 +21,7 @@ Build-Depends:
  libext2fs-dev,
  elfutils,
  fuse3,
- gjs [!alpha !hppa !ia64 !m68k !sh4 !sparc64 !x32],
+ gjs [!alpha !hppa !ia64 !loong64 !m68k !sh4 !sparc64 !x32],
  gnupg <!nocheck>,
  gobject-introspection,
  gtk-doc-tools <!nodoc>,
